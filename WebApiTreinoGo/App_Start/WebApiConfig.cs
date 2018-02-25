@@ -9,6 +9,7 @@ namespace WebApiTreinoGo
     {
         public static void Register(HttpConfiguration config)
         {
+            //1
             // Web API configuration and services
 
             // Web API routes
